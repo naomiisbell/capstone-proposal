@@ -2,11 +2,11 @@
 
 # MVP
 
-On this website users will be able to sign up and login. It will be a website containing technology used or new that the customer can purchase.
+It will be a website containing technology used or new that the customer can place an item in their cart by typing the name of the product they want to purchase.
 
 # Post MVP
 
-In the future I hope to add a feature where those who are signed up can sell their used products to the company but they will not be able to sell on their own.
+In the future I hope to add the ability of users to sign up and login and a feature where those who are signed up can sell their used products to the company but they will not be able to sell on their own.
 
 ## Java models
 
